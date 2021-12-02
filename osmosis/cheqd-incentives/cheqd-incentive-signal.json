@@ -1,0 +1,5 @@
+{
+	"title": "Incentives for CHEQ-OSMO and CHEQ-UST",
+	"description": "Signaling proposal for CHEQ incentivized pools.\n- By voting YES on this proposal, OSMO stakers voice their support in adding OSMO incentives to CHEQ-liquidity pools on Osmosis.- By voting NO on this proposal, OSMO stakers voice their dissent to adding OSMO incentives to CHEQ-liquidity pools on Osmosis.\n\nThis is a signaling proposal to include CHEQ pairs into the set of assets that get OSMO liquidity incentives.\n The benefit to the osmosis community from cheqd.io is pretty clear: they're experts in identity, and want to bring idenitity to the IBC stack in a way that preserves user privacy.  You can learn more about cheqd at https://cheqd.io",
+	"deposit": "500000000uosmo"
+}

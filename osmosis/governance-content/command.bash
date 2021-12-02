@@ -1,0 +1,1 @@
+osmosisd tx gov 
