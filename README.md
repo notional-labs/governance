@@ -1,4 +1,7 @@
 # governance
-records of Notional's governance activities.
+Simple web UI for making governance proposals in cosmos
 
-Proposals are kept in folders named after the blockchain they correspond to.  
+* governance only for now, KISS
+* Forkable, so people can change it as they see fit
+* Hosted on Github pages
+* Uses cosmos kit
